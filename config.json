@@ -1,0 +1,20 @@
+{
+    "exe": "Software",
+    "txt": "Texts",
+    "pdf": "PDF Documents",
+    "epub": "Books",
+    "jpg": "Images",
+    "jpeg": "Images",
+    "png": "Images",
+    "raw": "Images",
+    "mp3": "Music",
+    "ogg": "Audio",
+    "mp4": "Videos",
+    "mkv": "Videos",
+    "avi": "Videos",
+    "xlsx": "Excel Files",
+    "ppt": "Slides",
+    "doc": "Documents",
+    "rar": "Compressed Files",
+    "zip": "Compressed Files"
+}
