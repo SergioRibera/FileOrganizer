@@ -45,7 +45,7 @@ Is a Dictionary, name parameter correspond to extension, the value correspond to
 
 Thanks for install this tool, for see more visit [my web](https://sergioribera.com) (Very soon I will add an app store)
 ## Supportme
-[Ko-fi](https://ko-fi.com/sergioribera)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q321D62)
 [Patreon](https://www.patreon.com/SergioRibera)
 [PaypalMe](https://paypal.me/SergioRibera)
 
