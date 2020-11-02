@@ -2,6 +2,7 @@
 
 This script can help you to organize your folders
 
+![Example](https://github.com/SergioRibera/FileOrganizer/blob/main/repofiles/example.GIF)
 
 ## Options
 
